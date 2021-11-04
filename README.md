@@ -1,4 +1,4 @@
-## Hello guys, eu sou o Diego Teixeira.
+## Hello guys, I'm Diego Teixeira de Souza.
 <div align="center">
   <a href="https://github.com/diegomgatx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomgatx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
   <img align="center" alt="Dig-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Dig-gif" src="https://www.deviantart.com/dbheroes/art/Goku-GIF-505634237">
+  <img align="right"  alt="Dig-gif" src="https://acegif.com/wp-content/uploads/cat-typing-6.gif">
 </div>
   
   ##
