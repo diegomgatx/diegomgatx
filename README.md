@@ -10,6 +10,7 @@
   <img align="center" alt="Dig-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dig-GIT" height="30" width="40" src="https://camo.githubusercontent.com/d348419d58717496aa3d27e206ea4a024285a141f86d7a29ae4333b7fadb9431/68747470733a2f2f692e696d6775722e636f6d2f35704965767a572e706e67">
   <img align="right"  alt="Dig-gif" height="150" width="300" src="https://acegif.com/wp-content/uploads/cat-typing-6.gif">
 </div>
   
