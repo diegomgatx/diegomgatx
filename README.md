@@ -11,7 +11,7 @@
   <img align="center" alt="Dig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dig-GIT" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png">
-  <img align="center" alt="Dig-GIT" height="30" width="40" src="https://www.iconfinder.com/icons/4375050/logo_python_icon">
+  <img align="center" alt="Dig-Python" height="30" width="40" src="https://www.iconfinder.com/icons/4375050/logo_python_icon">
   <img align="right"  alt="Dig-gif" height="150" width="300" src="https://acegif.com/wp-content/uploads/cat-typing-6.gif">
 </div>
   
